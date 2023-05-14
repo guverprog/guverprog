@@ -3,4 +3,4 @@
 ### I work in technology stack: HTML/CSS, JS, REACT/REDUX
 ### Contact with me:
  - 📫 yauhenlishik@gmail.com
- - 💬 Telegram @Kurt Kib
+ - 💬 Telegram @youwillpa

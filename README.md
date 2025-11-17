@@ -1,6 +1,6 @@
 # Hi I'm Yauhen👋
 ## Front - end developer from Belarus.
-### I work in technology stack: HTML/CSS, JS, REACT/REDUX
+### I work in technology stack: JS/REACT/REACT-NATIVE
 ### Contact with me:
  - 📫 yauhenlishik@gmail.com
  - 💬 Telegram @youwillpa

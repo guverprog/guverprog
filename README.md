@@ -3,4 +3,3 @@
 ### I work in technology stack: JS/REACT/REACT-NATIVE
 ### Contact with me:
  - 📫 yauhenlishik@gmail.com
- - 💬 Telegram @youwillpa
